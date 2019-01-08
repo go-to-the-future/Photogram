@@ -22,7 +22,7 @@ gem 'paperclip', '~> 6.0.0'
 gem 'simple_form'
 gem 'haml-rails'
 gem 'bootstrap-sass'
-gem 'jquery-rails'
+gem 'rails-ujs'
 gem 'sassc-rails'
 gem 'devise'
 # Use CoffeeScript for .coffee assets and views
